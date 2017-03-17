@@ -13,7 +13,7 @@ $ npm start
 # Controls
 1. There's some sliders
 2. Also some toggles maybe?
-3 .A few input boxes I think
+3. A few input boxes I think
 4. `F1` will hide the control panel all-together...
 
 SO YOU CAN TAKE _PANTS-RUININGLY_ **AWESOME** SCREENSHOTS :metal: AND THEN SEND THEM TO YOUR _LONELY-ASS_ **MOTHER**. I DUNNO, TELL HER YOU MADE THEM, BECAUSE, I GUESS, _"TECHNICALLY"_ YOU DID. 
