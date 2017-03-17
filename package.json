@@ -1,0 +1,16 @@
+{
+  "name": "bad-ass-geometric-stripe-patterns",
+  "version": "1.0.0",
+  "description": "Create awesome geometric patterns using triangles and some clever canvas manipulation",
+  "main": "sketch.js",
+  "dependencies": {
+    "http-server": "^0.9.0",
+    "npm-run-all": "^4.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
