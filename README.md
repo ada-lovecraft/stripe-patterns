@@ -1,4 +1,4 @@
-# Bad-Ass Geo-Metric Stripe-Patterns :fire::gun::unicorn::cool:
+# Bad-Ass Geo-Metric Stripe-Patterns :fire::gun::unicorn::sunglasses:
 
 Create awesome geometric patterns using triangles and some clever canvas manipulation
 
